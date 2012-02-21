@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Program Files\Java\jdk1.6.0_23" version="1.6.0_23">
+<bootpath>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jdk1.6.0_23\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\oracle\ora92\jre\1.4.2" version="1.4.2_03">
+<bootpath>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\rt.jar"/>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\i18n.jar"/>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\sunrsasign.jar"/>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\jsse.jar"/>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\jce.jar"/>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\charsets.jar"/>
+<entry path="C:\oracle\ora92\jre\1.4.2\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\oracle\ora92\jre\1.4.2\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Program Files\Java\jdk1.6.0_29" version="1.6.0_29">
+<bootpath>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\resources.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\rt.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\jsse.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\jce.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\charsets.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\modules\jdk.boot.jar"/>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Program Files\Java\jdk1.6.0_29\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

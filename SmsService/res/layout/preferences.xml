@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+	
+	<CheckBox  
+    	android:id="@+id/enableService"
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content"
+    	android:checked="false" 
+    	android:text="@string/label_service_enable"
+    />
+    
+    <RadioGroup
+    	android:id="@+id/connectionType"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical">
+    	
+    	<RadioButton
+    		android:id="@+id/connectionWifi"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:text="@string/label_wifi"/>
+    	
+    	<RadioButton
+    		android:id="@+id/connectionBT"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:text="@string/label_BT"/>
+    		
+    	<RadioButton
+    		android:id="@+id/connectionUSB"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:text="@string/label_USB"/>
+    	
+    </RadioGroup>
+    
+
+</LinearLayout>

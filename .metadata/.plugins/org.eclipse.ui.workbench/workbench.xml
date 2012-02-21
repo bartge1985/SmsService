@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="22" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="623" y="161">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="125" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="adt.actionSet.avdManager" itemType="typeToolBarContribution" x="39" y="22"/>
+<coolItem id="adt.actionSet.wizards" itemType="typeToolBarContribution" x="85" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="136" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="79" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="79" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="108" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="199" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.dyno.visual.swing.editors.VisualSwingEditor" itemType="typeToolBarContribution" x="385" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.PropertiesFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="com.android.ide.eclipse.editors.layout.LayoutEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1296935533453" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor activePart="true" focus="true" id="org.dyno.visual.swing.editors.VisualSwingEditor" name="SmsApplication.java" partName="SmsApplication.java" path="C:/Program Files/HTC/Workspace_SmsService/SmsApplication/src/ext/atos/smsapplication/SmsApplication.java" title="SmsApplication.java" tooltip="SmsApplication/src/ext/atos/smsapplication/SmsApplication.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SmsApplication/src/ext/atos/smsapplication/SmsApplication.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="99" selectionOffset="2902" selectionTopPixel="1893"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClientDispatchService.java" partName="ClientDispatchService.java" path="C:/Program Files/HTC/Workspace/SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java" title="ClientDispatchService.java" tooltip="SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="857" selectionTopPixel="417"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClientWorker.java" partName="ClientWorker.java" path="C:/Program Files/HTC/Workspace/SmsApplication/src/ext/atos/smsapplication/ClientWorker.java" title="ClientWorker.java" tooltip="SmsApplication/src/ext/atos/smsapplication/ClientWorker.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SmsApplication/src/ext/atos/smsapplication/ClientWorker.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="167" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WifiConnection.java" partName="WifiConnection.java" path="C:/Program Files/HTC/Workspace/SmsService/src/ext/atos/mobile/WifiConnection.java" title="WifiConnection.java" tooltip="SmsService/src/ext/atos/mobile/WifiConnection.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/SmsService/src/ext/atos/mobile/WifiConnection.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1092" selectionTopPixel="653"/>
+</editor>
+</editors>
+<views>
+<view id="org.dyno.visual.swing.editors.PaletteView" partName="Palette">
+<viewState/>
+</view>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView" partName="File Explorer">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Warnings"/>
+<category IMemento.internal.id="Errors"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1296935533453">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.views.ContentOutline" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="adt.actionSet.wizards"/>
+<alwaysOnActionSet id="adt.actionSet.refactorings"/>
+<alwaysOnActionSet id="adt.actionSet.avdManager"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="com.android.ide.eclipse.ddms.views.FileExplorerView"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.dyno.visual.swing.editors.PaletteView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@33aa44" ratio="0.75" ratioLeft="756" ratioRight="252" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="252" ratioRight="756" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.78251123" ratioLeft="698" ratioRight="194" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="com.android.ide.eclipse.ddms.views.FileExplorerView" label="File Explorer"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.7906648" ratioLeft="1118" ratioRight="296" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.dyno.visual.swing.editors.PaletteView" label="Palette"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.dyno.visual.swing.editors.VisualSwingEditor" path="/SmsApplication/src/ext/atos/smsapplication/SmsApplication.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SmsApplication/src/ext/atos/smsapplication/ClientWorker.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SmsService/src/ext/atos/mobile/SmsService.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SmsService/src/ext/atos/mobile/WifiConnection.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/SmsApplication/src/ext/atos/smsapplication/ClientWorker.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.dyno.visual.swing.editors.VisualSwingEditor" path="/SmsApplication/src/ext/atos/smsapplication/SmsApplication.java"/>
+</editors>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3179" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3417" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3410" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="0">
+<position info="not_deleted" x="1251" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="2463" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="0">
+<position info="not_deleted" x="1251" y="0"/>
+</item>
+<item historyLabel="ClientWorker.java" index="2">
+<position info="not_deleted" x="367" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="0">
+<position info="not_deleted" x="1251" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="2463" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3179" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="2897" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3146" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3174" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3274" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3235" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3114" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="0">
+<position info="not_deleted" x="1251" y="0"/>
+</item>
+<item historyLabel="ClientWorker.java" index="2">
+<position info="not_deleted" x="367" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3114" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="3">
+<position info="not_deleted" x="1327" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="3">
+<position info="not_deleted" x="1316" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="3114" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="3">
+<position info="not_deleted" x="499" y="0"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="2721" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="3">
+<position info="not_deleted" x="499" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1522" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="3">
+<position info="not_deleted" x="645" y="553"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1522" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="151" y="0"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="2721" y="0"/>
+</item>
+<item historyLabel="ClientWorker.java" index="6">
+<position info="not_deleted" x="367" y="0"/>
+</item>
+<item historyLabel="ClientWorker.java" index="6">
+<position info="not_deleted" x="167" y="0"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="2721" y="0"/>
+</item>
+<item historyLabel="ClientDispatchService.java" index="3">
+<position info="not_deleted" x="857" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="2902" y="99"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="2721" y="0"/>
+</item>
+<item historyLabel="SmsApplication.java" index="1">
+<position info="not_deleted" x="2902" y="99"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="3323" y="60"/>
+</item>
+<item historyLabel="ClientWorker.java" index="6">
+<position info="not_deleted" x="167" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="151" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1092" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1141" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1193" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="534" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1522" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1092" y="0"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="3420" y="0"/>
+</item>
+<item historyLabel="WifiConnection.java" index="5">
+<position info="not_deleted" x="1092" y="0"/>
+</item>
+<item historyLabel="SmsService.java" index="4">
+<position info="not_deleted" x="2692" y="0"/>
+</item>
+<item active="true" historyLabel="SmsApplication.java" index="7">
+<position info="not_deleted" x="2902" y="99"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="WifiConnection.java" tooltip="SmsService/src/ext/atos/mobile/WifiConnection.java">
+<persistable path="/SmsService/src/ext/atos/mobile/WifiConnection.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SmsService.java" tooltip="SmsService/src/ext/atos/mobile/SmsService.java">
+<persistable path="/SmsService/src/ext/atos/mobile/SmsService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClientWorker.java" tooltip="SmsApplication/src/ext/atos/smsapplication/ClientWorker.java">
+<persistable path="/SmsApplication/src/ext/atos/smsapplication/ClientWorker.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClientDispatchService.java" tooltip="SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java">
+<persistable path="/SmsApplication/src/ext/atos/smsapplication/ClientDispatchService.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.dyno.visual.swing.editors.VisualSwingEditor" name="SmsApplication.java" tooltip="SmsApplication/src/ext/atos/smsapplication/SmsApplication.java">
+<persistable path="/SmsApplication/src/ext/atos/smsapplication/SmsApplication.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" name="preferences.xml" tooltip="SmsService/res/layout/preferences.xml">
+<persistable path="/SmsService/res/layout/preferences.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="NewOrder.java" tooltip="HelloAndroid/src/com/example/helloandroid/NewOrder.java">
+<persistable path="/HelloAndroid/src/com/example/helloandroid/NewOrder.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Statistics.java" tooltip="SmsService/src/ext/atos/mobile/Statistics.java">
+<persistable path="/SmsService/src/ext/atos/mobile/Statistics.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" name="statistics.xml" tooltip="SmsService/res/layout/statistics.xml">
+<persistable path="/SmsService/res/layout/statistics.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.layout.LayoutEditor" name="overview.xml" tooltip="SmsService/res/layout/overview.xml">
+<persistable path="/SmsService/res/layout/overview.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Overview.java" tooltip="SmsService/src/ext/atos/mobile/Overview.java">
+<persistable path="/SmsService/src/ext/atos/mobile/Overview.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.menu.MenuEditor" name="sms_main_menu.xml" tooltip="SmsService/res/menu/sms_main_menu.xml">
+<persistable path="/SmsService/res/menu/sms_main_menu.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.android.ide.eclipse.editors.menu.MenuEditor" name="main_menu.xml" tooltip="SmsService/res/menu/main_menu.xml">
+<persistable path="/SmsService/res/menu/main_menu.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DbHelper.java" tooltip="SmsService/src/ext/atos/mobile/DbHelper.java">
+<persistable path="/SmsService/src/ext/atos/mobile/DbHelper.java"/>
+</file>
+<file factoryID="org.eclipse.jdt.ui.ClassFileEditorInputFactory" id="org.eclipse.jdt.ui.ClassFileEditor" name="ContextWrapper.class" tooltip="android.content.ContextWrapper">
+<persistable org.eclipse.jdt.ui.ClassFileIdentifier="=SmsService/C:\/Program Files\/HTC\/Android\/android-sdk-windows\/platforms\/android-8\/android.jar&lt;android.content(ContextWrapper.class"/>
+</file>
+</mruList>
+</workbench>

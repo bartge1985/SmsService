@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_service_enable">Enable SMS Service</string>
+    <string name="app_name">Sms Service</string>
+    <string name="label_wifi">Wifi</string>
+    <string name="label_BT">Bluetooth</string>
+    <string name="label_USB">USB</string>
+    <string name="preferences_label">Preferences</string>
+    <string name="statistics_label">Statistics</string>
+    <string name="statistics_text_label">This is the statistics activity.</string>
+    <string name="overview_label">Overview</string>
+    <string name="overview_service_started_label">Sms Service: Running</string>
+    <string name="overview_service_stopped_label">Sms Service: Not Running</string>
+</resources>

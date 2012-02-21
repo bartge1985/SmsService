@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewClassWizardPage">
+		<item value="false" key="create_constructor"/>
+		<item value="true" key="create_main"/>
+		<item value="javax.swing.JFrame" key="super_class_name"/>
+		<item value="true" key="create_unimplemented"/>
+	</section>
+</section>
